@@ -1,7 +1,16 @@
 body	{
-	text-align: center;
-	background: url("http://bestwestern.com.au/wp-content/uploads/2017/05/woman-with-luggage.jpg");
+ 	text-align: center;
+ 	background: url("http://bestwestern.com.au/wp-content/uploads/2017/05/woman-with-luggage.jpg");
 	background-size: cover;
-	color: #f2f2f4
-	font-family: gotham, sans-serif;
+	color: #f2f2f4;
+	font-family: Helvetica;
+}
+h1{
+	font-size: 30px;
+}
+#slogan{
+	color: #d0ced4
+}
+p	{
+	font-size: 18px;
 }
