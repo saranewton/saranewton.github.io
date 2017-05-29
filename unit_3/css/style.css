@@ -1,16 +1,69 @@
-body	{
- 	text-align: center;
- 	background: url("http://bestwestern.com.au/wp-content/uploads/2017/05/woman-with-luggage.jpg");
-	background-size: cover;
-	color: #f2f2f4;
-	font-family: Helvetica;
+* {
+	padding: 0;
+	margin: 0;
 }
+body	{
+ 	background-color: #fff;
+	color: #120F25;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 1.5;
+
+}
+header{
+	background-color: #6B8A97;
+	padding: 25px;
+}
+#navtop{
+	background-color: #3465A6;
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	padding: 15px;
+}
+
 h1{
+	color: #120F25;
 	font-size: 30px;
 }
-#slogan{
-	color: #d0ced4
-}
-p	{
+h4{
 	font-size: 18px;
+	text-align: center;
+	margin: 20px 20px 0 0;
+	padding: 0 0 20px 20px;
+}
+
+hr{
+	margin-left: 30%;
+	margin-right: 30%;
+	width: 50%;
+}
+
+#slogan{
+	color: #11224F;
+	padding-top: 10px;
+}
+
+#brands{
+	padding: 20px ;
+}
+
+a{
+	color: #120F25;
+	text-decoration: none;
+}
+
+img{
+	width: 100%;
+}
+
+
+ul{
+	padding-left: 20px;
+}
+footer{
+	text-align: center;
+	font-size: 13px;
+	padding: 10px;
+	background-color: #6B8A97;
+	line-height: 1.5;
 }
