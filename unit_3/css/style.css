@@ -11,13 +11,13 @@ body	{
 }
 header{
 	background-color: #6B8A97;
-	padding: 25px;
+	padding: 20px;
 }
 #navtop{
 	background-color: #3465A6;
 	color: #fff;
 	text-align: center;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 15px;
 }
 
@@ -26,6 +26,13 @@ h1{
 	font-size: 30px;
 	text-transform: uppercase;
 }
+
+h2{
+	text-align: left;
+	font-size: 20px;
+	text-transform: 700
+}
+
 h4{
 	font-size: 18px;
 	text-align: center;
@@ -36,16 +43,12 @@ h4{
 hr{
 	margin-left: 30%;
 	margin-right: 30%;
-	width: 50%;
+	width: 40%;
 }
 
 #slogan{
-	color: #11224F;
-	padding-top: 10px;
-}
-
-#brands{
-	padding: 20px ;
+	color: #fff;
+	padding-top: 6px;
 }
 
 a{
@@ -57,14 +60,22 @@ img{
 	width: 100%;
 }
 
+p{
+	padding: 20px;
+	text-align: center;
+}
 
 ul{
 	padding-left: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+	list-style-type: none;
 }
+
 footer{
 	text-align: center;
 	font-size: 13px;
 	padding: 10px;
 	background-color: #6B8A97;
-	line-height: 1.5;
+	line-height: 1.2;
 }
