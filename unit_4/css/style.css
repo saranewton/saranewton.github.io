@@ -1,0 +1,83 @@
+@import url(https://fonts.googleapis.com/css?family=Assistant|Halant|Ovo|Open+Sans);
+* {
+	padding: 0;
+	margin: 0;
+}
+body	{
+ 	background-color: #fff;
+	color: #120F25;
+	font-family: 'Assistant', Arial, sans-serif;
+	line-height: 1.5em;
+
+}
+header{
+	background-color: #E2ECF1;
+	padding: 1.5em;
+}
+#navtop{
+	background-color: #3465A6;
+	text-align: center;
+	font-size: 1em;
+	padding: 1em;
+}
+
+h1{
+	color: #120F25;
+	font-family: 'halant', serif;
+	font-size: 3em;
+	line-height: 1em;
+}
+
+h2{
+	font-family: 'open sans', sans-serif;
+	font-size: 1.7em;
+	text-transform: 400;
+}
+
+h4{
+	font-size: 1.1em;
+	text-align: center;
+	margin: 1.2em 1.2em 0 0;
+	padding: 0 0 1.2em 1.2em;
+}
+
+hr{
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 1em;
+	width: 40%;
+}
+
+#slogan{
+	color: #183361;
+	padding-top: 0.9em;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+
+img{
+	width: 100%;
+}
+
+p{
+	text-align: center;
+}
+
+ul{
+	padding-left: 1.2em;
+	padding-bottom: 1.5em;
+	padding-top: 1.5em;
+	text-align: center;
+	list-style-type: none;
+}
+
+footer{
+	text-align: center;
+	font-size: 0.85em;
+	padding: 0.6em;
+	background-color: #6B8A97;
+	line-height: 1.5em;
+}
