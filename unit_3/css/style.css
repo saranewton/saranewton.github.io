@@ -10,12 +10,11 @@ body	{
 
 }
 header{
-	background-color: #6B8A97;
+	background-color: #E2ECF1;
 	padding: 20px;
 }
 #navtop{
 	background-color: #3465A6;
-	color: #fff;
 	text-align: center;
 	font-size: 14px;
 	padding: 15px;
@@ -43,16 +42,17 @@ h4{
 hr{
 	margin-left: 30%;
 	margin-right: 30%;
+	margin-bottom: 20px;
 	width: 40%;
 }
 
 #slogan{
-	color: #fff;
+	color: #183361;
 	padding-top: 6px;
 }
 
 a{
-	color: #120F25;
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -61,13 +61,14 @@ img{
 }
 
 p{
-	padding: 20px;
+	padding-left: : 20px;
 	text-align: center;
 }
 
 ul{
 	padding-left: 20px;
 	padding-bottom: 30px;
+	padding-top: 20px;
 	text-align: center;
 	list-style-type: none;
 }
@@ -77,5 +78,5 @@ footer{
 	font-size: 13px;
 	padding: 10px;
 	background-color: #6B8A97;
-	line-height: 1.2;
+	line-height: 1.5;
 }
