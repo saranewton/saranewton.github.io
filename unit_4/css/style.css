@@ -8,12 +8,16 @@ body	{
  	background-color: #fff;
 	color: #120F25;
 	font-family: 'Assistant', Arial, sans-serif;
+	font-size: 16px /*1em = 16px */
 	line-height: 1.5em;
 
 }
 header{
 	background-color: #fff;
 	padding: 2em;
+}
+nav{
+	margin: auto;
 }
 
 h1{
@@ -35,8 +39,8 @@ h2{
 h4{
 	font-size: 18px;
 	text-align: center;
-	margin: 1.2em 1.2em 0 0;
-	padding: 0 0 1.2em 1.2em;
+	margin: 20px;
+	padding: 0 0 20px 20px;
 }
 a{
 	color: #1B0441;
@@ -68,9 +72,8 @@ ul{
 footer{
 	background-color: #F1F0E2;
 	text-align: center;
-	font-size: 0.85em;
 	padding: 0.6em;
-	line-height: 2em;
+	line-height: 1.2em;
 }
 
 }
@@ -78,12 +81,11 @@ footer{
 	color: #183361;
 	padding-top: 0.9em;
 }
-#topnav{
+.topnav{
 	background-color: #F1F0E2;
 	text-align: center;
 	font-size: 1em;
-	padding: 1em;
-}
-#tophero{
-	width: 80%;
+	padding: 15px;
+	margin: auto;
+
 }
