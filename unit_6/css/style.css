@@ -1,0 +1,143 @@
+@import url(https://fonts.googleapis.com/css?family=Assistant|Halant|Ovo|Open+Sans);
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body	{
+ 	background-color: #fff;
+	color: #120F25;
+	font-family: 'Assistant', Arial, sans-serif;
+	font-size: 16px /*1em = 16px */
+	line-height: 1.5em;
+	position: relative;
+
+}
+header{
+	/*background-color: #FFED74;*/
+}
+nav{
+	/*background-color: #E8C66A;*/
+	text-align: center;
+	text-transform: uppercase;
+}
+nav a{
+	color: #555;
+	padding: 1em 0;
+	display: block;
+	width: 20%;
+	text-decoration: none;
+	float:left;
+}
+nav a:hover {
+	background-color: #ccc;
+} 
+main{
+	background-color: #ffffff;
+}
+h1{
+	color: #120F25;
+	font-family: 'halant', serif;
+	font-size: 3em;
+	text-transform: 500;
+	line-height: 1em;
+	text-align: center;
+	padding: 40px 0 0 0;
+}
+
+h2{
+	font-family: 'open sans', sans-serif;
+	font-size: 1.35em;
+	text-transform: 100;
+	text-align: center;	
+	padding: 1em;
+}
+
+h3{
+	font-size: 1.2em;
+	text-align: center;
+	border: none;
+	margin: .5em; 
+}
+h4{
+	font-size: 1.1em;
+	border: none;
+	padding: 1em 0;
+}
+a{
+	color: #777777;
+	text-decoration: none;
+}
+hr{
+	margin: .7em 30% .7em 30%;
+	width: 40%;
+}
+div{
+	/*background-color: #FFE2B8;*/
+}
+img{
+	width: 100%;
+}
+ul{
+	text-align: left;
+	list-style-type: none;
+	padding: .5em;
+}
+li
+{
+	padding: .3em;
+}
+
+footer{
+	/*background-color: #FF957E;*/
+	font-size: .9em;
+	text-align: right;
+	padding: 1em 2em;
+	line-height: 1.7em;
+	clear: both;
+}
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.wrapper{
+	/*background-color: #ccc;*/
+	width: 90%;
+	margin: auto;
+ }
+.column{
+	width: 18%;
+	height: 300px;
+	padding: 2%;
+	margin: 1%;
+	float: left;
+}
+
+#navhome{
+
+}
+#hero{
+	width: 100%;
+}
+#column1{
+	background-color: #ffc839;
+}
+#column2{
+	background-color: #34D0E8;
+}
+#column3{
+	background-color: #ff5946;
+}
+#column4{
+	background-color: #e8e8e8;
+}
+#footnav{
+	padding: 0;
+	width: 800px;
+	display: block;
+}
+
